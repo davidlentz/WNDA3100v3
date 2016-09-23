@@ -1,3 +1,9 @@
+# WNDA3100v3
+
+This driver is confirmed to work for the WNDA3100v3 on Ubuntu 16.04.
+
+100% of the credit for this goes to the original author whose repo I have forked. jurobystricky/Netgear-A6210
+
 # Netgear-A6210
 This driver supports Ralink / Mediatek mt766u, mt7632u and mt7612u chipsets.
 
